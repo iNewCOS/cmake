@@ -1,1 +1,1 @@
-/home/samuel/soft/MPIG0024_simpleDemo/a/build/CMakeFiles/sqrtDemoA.dir
+/home/inewcos/Documents/projects/cmakeStudy/cmake/a/build/CMakeFiles/sqrtDemoA.dir

@@ -6,13 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/home/samuel/soft/MPIG0024_simpleDemo/a/demo.cpp
+/home/inewcos/Documents/projects/cmakeStudy/cmake/a/demo.cpp
 stdio.h
 -
 sqrt.h
-/home/samuel/soft/MPIG0024_simpleDemo/a/sqrt.h
+/home/inewcos/Documents/projects/cmakeStudy/cmake/a/sqrt.h
 
-/home/samuel/soft/MPIG0024_simpleDemo/a/sqrt.h
+/home/inewcos/Documents/projects/cmakeStudy/cmake/a/sqrt.cpp
+sqrt.h
+/home/inewcos/Documents/projects/cmakeStudy/cmake/a/sqrt.h
+
+/home/inewcos/Documents/projects/cmakeStudy/cmake/a/sqrt.h
 math.h
 -
 
