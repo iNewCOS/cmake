@@ -1,1 +1,0 @@
-/home/sam/cmake/d/build/example/CMakeFiles/sqrtDemoD.dir
