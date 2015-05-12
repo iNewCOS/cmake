@@ -106,6 +106,7 @@ sqrtDemoA_EXTERNAL_OBJECTS =
 sqrtDemoA: CMakeFiles/sqrtDemoA.dir/demo.cpp.o
 sqrtDemoA: CMakeFiles/sqrtDemoA.dir/sqrt.cpp.o
 sqrtDemoA: CMakeFiles/sqrtDemoA.dir/build.make
+sqrtDemoA: /usr/lib/x86_64-linux-gnu/libm.so
 sqrtDemoA: CMakeFiles/sqrtDemoA.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --red --bold "Linking CXX executable sqrtDemoA"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/sqrtDemoA.dir/link.txt --verbose=$(VERBOSE)
