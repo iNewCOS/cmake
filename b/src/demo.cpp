@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../include/sqrt.h"
+#include "sqrt.h"
 int main()
 {
 	double b=25.0;

@@ -23,4 +23,4 @@ MESSAGE(STATUS ${DIR_SRCS})
 #add executable file
 ADD_EXECUTABLE(sqrtDemoB ${CPP_FILES})
 #add link library
-TARGET_LINK_LIBRARIES(sqrtDemoB m)
+#TARGET_LINK_LIBRARIES(sqrtDemoB LIBRARIES)
