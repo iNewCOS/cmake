@@ -1,6 +1,7 @@
 AUX_SOURCE_DIRECTORY(${PROJECT_SOURCE_DIR}/example EXAM_CPP_LIST)
 list(APPEND CPP_LIST ${CORE_CPP_LIST} ${EXAM_CPP_LIST})
 message(STATUS "cpplistinexample = ${CPP_LIST}")
+	SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin)
 #add executable file
 ADD_EXECUTABLE(sqrtDemoD ${CPP_LIST})
 #add link library
