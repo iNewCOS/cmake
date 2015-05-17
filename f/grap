@@ -1,4 +1,4 @@
-e
+f
 |
 +------CMakeLists.txt
 |
@@ -8,8 +8,6 @@ e
 		|
 		+------hello
 				|
-				+------CMakeLists.txt
-				|
 				+------include
 						|
 						+------sayHello.h
@@ -17,13 +15,8 @@ e
 				+------src
 						|
 						+------sayHello.cpp
-				+------test
-						|
-						+------testHello.cpp
 		|
 		+------sqrt
-				|
-				+------CMakeLists.txt
 				|
 				+------include
 						|
@@ -32,15 +25,9 @@ e
 				+------src
 						|
 						+------sqrt.cpp
+		|
+		+------test
 				|
-				+------test
-						|
-						+------testSqrt.cpp
-
-
-
-
-
-
+				+------testHelloSqrt.cpp
 
 
