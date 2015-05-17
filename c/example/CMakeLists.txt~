@@ -5,5 +5,3 @@ message(STATUS "cpplistexample =  ${CPP_LIST}")
 ADD_EXECUTABLE(sqrtDemoC ${CPP_LIST})
 #add link library
 TARGET_LINK_LIBRARIES(sqrtDemoC ${EXT_LIB})
-
-MESSAGE(STATUS ${EXAM_CPP_LIST})
