@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "../sqrt/include/sqrt.h"
-#include "../hello/include/sayHello.h"
+#include "sqrt.h"
+#include "sayHello.h"
 int main()
 {
 	double b=25.0;

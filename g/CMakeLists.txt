@@ -10,3 +10,5 @@ LINK_DIRECTORIES(../f/lib)
 ADD_EXECUTABLE(demoG ${CPP_LIST})
 #add link library
 TARGET_LINK_LIBRARIES(demoG hellosqrt)
+
+
