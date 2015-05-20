@@ -1,0 +1,33 @@
+f
+|
++------CMakeLists.txt
+|
++------core
+		|
+		+------CMakeLists.txt
+		|
+		+------hello
+				|
+				+------include
+						|
+						+------sayHello.h
+				| 
+				+------src
+						|
+						+------sayHello.cpp
+		|
+		+------sqrt
+				|
+				+------include
+						|
+						+------sqrt.h
+				| 
+				+------src
+						|
+						+------sqrt.cpp
+		|
+		+------test
+				|
+				+------testHelloSqrt.cpp
+
+
